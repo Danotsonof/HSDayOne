@@ -52,4 +52,7 @@ Student.prototype.contructor = Student;
 var staff1 = new Staff ('Sam', 'Well', 37, 'male', 'sam.well@doneschool.com', 90000);
 var staff2 = new Staff ('Mary', 'Fred-Ham', 40, 'female', 'mary.fred@doneschool.com', 100000);
 var student1 = new Student ('Lizzy', 'Ebeny', 20, 'female', 'lizzy.ebeny@doneschool.com', 80, 81, 67);
-var student1 = new Student ('Sade', 'Tella', 18, 'female', 'sade.tella@doneschool.com', 79, 40, 80);
+var student2 = new Student ('Sade', 'Tella', 18, 'female', 'sade.tella@doneschool.com', 79, 40, 80);
+
+
+console.log(student1);
